@@ -1,0 +1,156 @@
+
+.banner{
+    display: flex;
+    padding-bottom: 100px;
+    padding-left:20px;
+    background-image: url("images/donation13.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.font-heading{
+    font-size: 60px;
+    color:white;
+    padding-top:40px;
+}
+
+
+.banner-p{
+    text-align: center;
+    padding-left:300px;
+    padding-right:300px;
+    padding-bottom:200px;
+    color:white;
+    
+}
+.banner-div{
+    padding-bottom:200px;
+    text-align: center;
+}
+.donate-button{
+    background-color: bisque;
+    text-decoration: none;
+    padding:20px 30px;
+    border-radius: 30px;
+    
+}
+body{
+    padding:0;
+    margin:0;
+    width:100%;
+    font-family: 'Playfair Display', serif;
+}
+.donate-amount{
+    display: flex;
+    
+    margin-bottom: 1em;
+    justify-content: center;
+    
+}
+.donate-heading{
+    text-align:center;
+    padding-top:50px;
+}
+.amount{
+    margin:auto;
+    width:60%;
+    border:3px solid green;
+    
+    text-align: center;
+}
+.donate-text{
+    text-align: center;
+    padding-left:400px;
+    padding-right:400px;
+}
+
+.amount-taka{
+    display:flex;
+    justify-content: center;
+}
+.center{
+    width:60px;
+    height:50px;
+    display: inline-block; 
+    margin:3px;
+    background:rgb(233, 225, 225);
+    padding:5px;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+hr{
+    padding-left:200px;
+    padding-right:200px;
+}
+.catagory{
+    
+    display: flex;
+    
+}
+.two-hundred{
+    border:1px solid red;
+    color:red;
+    background-color: rgb(235, 189, 189);
+}
+.indicate-amount{
+    text-align: center;
+    color:gray;
+   
+}
+.plan-heading{
+    text-align: center;
+    padding-left:400px;
+    padding-right:400px;
+    margin-top:150px;
+}
+.catagory-one{
+    margin:10px;
+    padding:30px;
+    background-color: rgb(235, 189, 189);
+    height:300px;
+}
+.one{
+    background-color: aqua;
+   
+}
+.two {
+    background-color: beige;
+}
+.three{
+    background-color: rgb(194, 194, 175);
+}
+.email{
+    text-align: center;
+    padding-left:400px;
+    padding-right:400px;
+
+}
+.subscribe{
+    text-align: center;
+    padding:30px 40px;
+    background-color: antiquewhite;
+    margin-bottom:120px;
+    margin-right:200px;
+    margin-left:200px;
+}
+.button{
+    background-color: red;
+    color:white;
+    
+    border:2px solid red;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color:white;
+    padding:20px;
+    
+}
+h1{
+    font-size: 35px;
+}
+.input{
+    width:30%;
+    height:15%;
+    background-color: rgb(235, 220, 220);
+}
