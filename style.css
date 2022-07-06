@@ -136,8 +136,8 @@ hr{
 .button{
     background-color: red;
     color:white;
-    
     border:2px solid red;
+    margin:-4px;
 }
 .footer{
     text-align: center;
